@@ -1,0 +1,26 @@
+C:\Users\Nicholas Impieri\AppData\Local\Temporary Projects\RDR2 Launcher\bin\Debug\RDR2 Launcher.exe
+C:\Users\Nicholas Impieri\AppData\Local\Temporary Projects\RDR2 Launcher\bin\Debug\RDR2 Launcher.pdb
+C:\Users\Nicholas Impieri\AppData\Local\Temporary Projects\RDR2 Launcher\bin\Debug\RDR2 Launcher.xml
+C:\Users\Nicholas Impieri\AppData\Local\Temporary Projects\RDR2 Launcher\obj\x86\Debug\RDR2_Launcher.Form1.resources
+C:\Users\Nicholas Impieri\AppData\Local\Temporary Projects\RDR2 Launcher\obj\x86\Debug\RDR2_Launcher.Resources.resources
+C:\Users\Nicholas Impieri\AppData\Local\Temporary Projects\RDR2 Launcher\obj\x86\Debug\RDR2 Launcher.vbproj.GenerateResource.Cache
+C:\Users\Nicholas Impieri\AppData\Local\Temporary Projects\RDR2 Launcher\obj\x86\Debug\RDR2 Launcher.exe
+C:\Users\Nicholas Impieri\AppData\Local\Temporary Projects\RDR2 Launcher\obj\x86\Debug\RDR2 Launcher.xml
+C:\Users\Nicholas Impieri\AppData\Local\Temporary Projects\RDR2 Launcher\obj\x86\Debug\RDR2 Launcher.pdb
+C:\Users\Nicholas Impieri\AppData\Local\Temporary Projects\RDR2 Launcher\obj\x86\Debug\RDR2_Launcher.Form2.resources
+C:\Users\Nicholas Impieri\AppData\Local\Temporary Projects\RDR2 Launcher\obj\x86\Debug\RDR2_Launcher.Form3.resources
+C:\Users\Nicholas Impieri\AppData\Local\Temporary Projects\RDR2 Launcher\obj\x86\Debug\RDR2_Launcher.Form4.resources
+C:\Users\Nicholas Impieri\AppData\Local\Temporary Projects\RDR2 Launcher\obj\x86\Debug\RDR2_Launcher.Form5.resources
+C:\Users\Nicholas Impieri\Documents\Visual Studio 2010\Projects\RDR2 Launcher\RDR2 Launcher\bin\Debug\RDR2 Launcher.exe
+C:\Users\Nicholas Impieri\Documents\Visual Studio 2010\Projects\RDR2 Launcher\RDR2 Launcher\bin\Debug\RDR2 Launcher.pdb
+C:\Users\Nicholas Impieri\Documents\Visual Studio 2010\Projects\RDR2 Launcher\RDR2 Launcher\bin\Debug\RDR2 Launcher.xml
+C:\Users\Nicholas Impieri\Documents\Visual Studio 2010\Projects\RDR2 Launcher\RDR2 Launcher\obj\x86\Debug\RDR2_Launcher.Form1.resources
+C:\Users\Nicholas Impieri\Documents\Visual Studio 2010\Projects\RDR2 Launcher\RDR2 Launcher\obj\x86\Debug\RDR2_Launcher.Form2.resources
+C:\Users\Nicholas Impieri\Documents\Visual Studio 2010\Projects\RDR2 Launcher\RDR2 Launcher\obj\x86\Debug\RDR2_Launcher.Form3.resources
+C:\Users\Nicholas Impieri\Documents\Visual Studio 2010\Projects\RDR2 Launcher\RDR2 Launcher\obj\x86\Debug\RDR2_Launcher.Form4.resources
+C:\Users\Nicholas Impieri\Documents\Visual Studio 2010\Projects\RDR2 Launcher\RDR2 Launcher\obj\x86\Debug\RDR2_Launcher.Form5.resources
+C:\Users\Nicholas Impieri\Documents\Visual Studio 2010\Projects\RDR2 Launcher\RDR2 Launcher\obj\x86\Debug\RDR2_Launcher.Resources.resources
+C:\Users\Nicholas Impieri\Documents\Visual Studio 2010\Projects\RDR2 Launcher\RDR2 Launcher\obj\x86\Debug\RDR2 Launcher.vbproj.GenerateResource.Cache
+C:\Users\Nicholas Impieri\Documents\Visual Studio 2010\Projects\RDR2 Launcher\RDR2 Launcher\obj\x86\Debug\RDR2 Launcher.exe
+C:\Users\Nicholas Impieri\Documents\Visual Studio 2010\Projects\RDR2 Launcher\RDR2 Launcher\obj\x86\Debug\RDR2 Launcher.xml
+C:\Users\Nicholas Impieri\Documents\Visual Studio 2010\Projects\RDR2 Launcher\RDR2 Launcher\obj\x86\Debug\RDR2 Launcher.pdb
